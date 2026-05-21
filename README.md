@@ -1,4 +1,4 @@
-# Lawrence Auto Concierge — Personal Car Shopper Website
+# LM Auto Deals 🇺🇸🇬🇭 — Personal Car Shopper Website
 
 This is a small static website scaffold for a personal car shopper who purchases cars from U.S. dealerships and ships to clients worldwide. It includes categories for Luxury, Sports, Hybrid, and Affordable cars, sample images, and a contact form that collects visitor contact information.
 
